@@ -24,6 +24,7 @@ Bu Python projesi, kameradan alınan görüntüler üzerinden **yüz ifadelerini
 ## 🚀 Kurulum
 
 <details> <summary>📦 Gereksinimler (requirements.txt)</summary>
+
 ```bash
 git clone https://github.com/LowLeery/duygudurumu
 cd duygudurumu
@@ -33,6 +34,5 @@ python duygu_tespit.py
 |3.10.x|EN GUNCEL PYTHON VERSIYONU|
 |----------|------------|
 |✔️|❌|
-  
-</details>
 
+</details>
