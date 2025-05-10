@@ -29,10 +29,10 @@ Bu Python projesi, kameradan alınan görüntüler üzerinden **yüz ifadelerini
 git clone https://github.com/LowLeery/duygudurumu
 cd duygudurumu
 py -3.10 -m pip install opencv-python fer tensorflow-gpu numpy
-python duygu_tespit.py
+python main.py
 ```
 |3.10.x|EN GUNCEL PYTHON VERSIYONU|
 |----------|------------|
-|✔️|❌|
+|  ✔️ |            ❌            |
 
 </details>
